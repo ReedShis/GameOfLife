@@ -1,0 +1,30 @@
+Description|PathType|Advisor|WithoutAdvisor|WithAdvisor|WithAdvisorText|WithoutAdvisorText
+Stampede roars through the plains!|2|5|-400|200|Sarafina's speed saves the day! Trust in her grows.|You are trampled in the chaos, losing pride.
+Desert storm sweeps through the territory|2|4|-500|200|Zazu shields you with clear skies and calm winds.|The storm overwhelms you, sapping your pride.
+Caught in a flash flood while crossing the savannah|2|4|-300|100|Zazu's weather control diverts the flood safely.|The rushing waters carry away your pride.
+Fatigue from intense training with pride warriors|0|3|-200|150|Sarabi's energy control keeps you from exhaustion.|Exhaustion sets in, draining your pride.
+Challenging night watch duty under pitch-black conditions|1|2|-400|200|Nala's night vision helps you see clearly and persevere.|You are overwhelmed by the oppressive darkness.
+Night watch under the stars strengthens resolve|1|2|-300|150|Nala spots distant dangers, making the night easier.|The long hours sap your energy and pride.
+Unrelenting winds drain your energy|0|3|-300|200|Sarabi shields you from the winds with precise energy control.|The harsh winds batter you relentlessly.
+Observed a rare natural phenomenon|0|0|600|600|You marvel at the phenomenon, gaining deep wisdom.|You marvel at the phenomenon, gaining deep wisdom.
+Extra energy from bountiful season|1|0|800|800|The abundance fills you with energy and pride.|The abundance fills you with energy and pride.
+Gained wisdom from observing Rafiki's rituals|1|1|0|500|Rafiki's teachings leave you inspired and wiser.|You miss out on Rafiki's profound wisdom.
+A sudden predator attack tests your strength|1|3|-300|200|Sarabi focuses your energy, and you fend off the attack.|You are injured, losing strength and pride.
+Unexpected blessing of abundant prey|1|0|700|700|You take full advantage of the abundance, growing stronger.|You take full advantage of the abundance, growing stronger.
+Drought reduces food availability|2|0|-200|-200|No advisor can help; the drought affects everyone equally.|No advisor can help; the drought affects everyone equally.
+A sudden storm crashes down on you|0|3|-300|200|Sarabi manipulates energy to make the storm work for you.|You are battered by the storm, losing strength and pride.
+Zazu clears the storm for safe hunting|2|4|-400|200|Zazu creates calm skies, allowing you to hunt safely.|The storm prevents your hunt, costing you pride.
+Without Zazu, the weather hinders your journey|2|4|-400|100|Zazu shields you from the weather, allowing progress.|The weather slows you down, draining your pride.
+Rafiki's stealth helps avoid danger|1|1|-400|200|Rafiki's invisibility saves you from certain conflict.|You are caught in a dangerous situation, losing pride.
+Caught without Rafiki leads to conflict|1|1|-400|100|Rafiki ensures your safety with stealthy evasion.|You are unable to avoid danger, losing pride.
+Sarafina's speed saves the day!|2|5|-400|200|Sarafina's incredible speed gets you to safety in time.|You are caught in the chaos, losing pride.
+Sarafina rushes across a treacherous bridge and falls!|2|5|0|-200|Sarafina missteps due to her speed, causing a fall.|You cross carefully and avoid any mishap.
+Rafiki's invisibility confuses your allies, delaying progress|2|1|0|-100|Rafiki's stealth causes a mishap, setting you back.|You proceed without issue, making steady progress.
+Nala's night vision falters under daylight, causing disorientation|1|2|0|-100|Nala struggles in bright daylight, losing focus.|You carry on without issue, unaffected by the light.
+Sarabi's energy control overloads, leading to fatigue|0|3|0|-200|Sarabi pushes too hard, causing exhaustion.|You avoid overexertion, proceeding steadily.
+Zazu's weather control misfires, resulting in a sudden storm|2|4|0|-300|Zazu's powers misfire, creating a sudden storm.|The weather remains calm, allowing progress.
+Celebratory feast boosts morale|2|0|400|400|The feast reinvigorates everyone, filling you with pride.|The feast reinvigorates everyone, filling you with pride.
+Celebratory feast boosts morale|2|0|400|400|The feast reinvigorates everyone, filling you with pride.|The feast reinvigorates everyone, filling you with pride.
+Lost in thought, you miss an important opportunity|2|0|-200|-200|No advisor can help; you lose a key chance.|No advisor can help; you lose a key chance.
+An ancient ruin reveals forgotten wisdom|0|0|600|600|The ruins teach you invaluable lessons, increasing wisdom.|The ruins teach you invaluable lessons, increasing wisdom.
+Struck by inspiration, you gain newfound clarity|1|0|500|500|A flash of insight leads to newfound clarity.|A flash of insight leads to newfound clarity.

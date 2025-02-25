@@ -1,0 +1,6 @@
+Player Name|Age|Strength|Stamina|Wisdom|Pride Points
+Tyler|5|500|500|1000|20000
+Boldy|8|900|600|600|20000
+Gunn|12|900|700|500|20000
+Freddie|7|600|500|900|20000
+Earl|18|1000|500|500|20000

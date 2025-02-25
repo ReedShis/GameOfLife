@@ -1,0 +1,15 @@
+Game Stats:
+----------------------------------
+Player 1 Stats:
+Stamina: 700
+Strength: 700
+Wisdom: 1200
+Pride Points: 26000
+----------------------------------
+Player 2 Stats:
+Stamina: 1100
+Strength: 1400
+Wisdom: 1600
+Pride Points: 41000
+----------------------------------
+Winner: Player 2
